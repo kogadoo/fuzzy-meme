@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос\Практос\bin\Debug\Практос.exe.config
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос\Практос\bin\Debug\Практос.exe
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос\Практос\bin\Debug\Практос.pdb
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос\Практос\obj\Debug\Практос.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос\Практос\obj\Debug\Практос.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос\Практос\obj\Debug\Практос.exe
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Практос\Практос\obj\Debug\Практос.pdb
